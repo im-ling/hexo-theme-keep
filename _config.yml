@@ -2,9 +2,9 @@
 #  Your basic info
 # ---------------------------------------------------------------------------------------
 base_info:
-  title: Keep Theme
-  author: Keep team
-  url: https://keep.xpoet.cn/
+  title: Ling's blog
+  author: Ling
+  url: https://github.com/im-ling
 
 
 # ---------------------------------------------------------------------------------------
@@ -12,13 +12,13 @@ base_info:
 # ---------------------------------------------------------------------------------------
 style:
   # Theme primary color
-  primary_color: '#0066CC'
+  primary_color: '#000000'
 
   # Avatar (You can use local image or image external link)
-  avatar: /images/avatar.svg
+  avatar: /images/avatar.png
 
   # Favicon (You can use local image or image external link)
-  favicon: /images/logo.svg
+  favicon: /images/l.svg
 
   # Article image align position, value: left | center
   article_img_align: left
@@ -52,16 +52,16 @@ style:
 # Social contact link
 # ---------------------------------------------------------------------------------------
 social_contact:
-  enable: false
+  enable: true
   links:
-    github:          # your GitHub URL
-    weixin:          # your WeChat QR-Code URL
-    qq:              # your QQ QR-Code URL
-    weibo:           # your WeiBo URL
-    zhihu:           # your ZhiHu URL
-    twitter:         # your twitter URL
-    facebook:        # your facebook URL
-    email:           # your email
+    github: https://github.com/im-ling   
+    # weixin:          # your WeChat QR-Code URL
+    # qq:              # your QQ QR-Code URL
+    # weibo:           # your WeiBo URL
+    # zhihu:           # your ZhiHu URL
+    # twitter:         # your twitter URL
+    # facebook:        # your facebook URL
+    # email:           # your email
 
 
 # ---------------------------------------------------------------------------------------
